@@ -1,0 +1,17 @@
+‹!DOCTYPE html>
+<html>
+<head>
+<title>Form</title>
+</head> <body> <center>
+<h1>HTML FORM</h1>
+</center>
+<form>
+<h2>Register Form:</h2>
+<center>First Name:<input type: "First Name"><br>
+Last Name: <input type :"Last Name"><br>
+Gender: <input type="radio">male <input type="radio">female<br>
+Date of Birth:<input type:"Date of Birth"><br>
+Email id: <input type:"Email id"><br>
+Mobile Number:<input type :"Mobile Number"><br>
+Age:<input type:"Age"><br>
+<button>sUBMIT</button> <button>RESET</button>
